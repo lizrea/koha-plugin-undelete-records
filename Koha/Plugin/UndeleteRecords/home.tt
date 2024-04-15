@@ -64,8 +64,7 @@
 	</div>
 [% END %]
 		<div id="inlibro-header" style="font-size: 14px; color: #696969; width: 450px;">
-			<p style="text-align: left;">This plugin was created by</p>
-			<img width='450px' src='[% PLUGIN_PATH %]/images/inLibro_en.svg'/>
+			<p style="text-align: left;">This plugin was created by InLibro</p>
 			<p style="text-align: right;">Visit our <a href="https://inlibro.com/en/">website</a> for more Koha plugins</p>
 		</div>
 		<div id="form" align='left' style='width:450px'>
